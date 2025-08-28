@@ -1,0 +1,33 @@
+/* General styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+/* Header */
+header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Card Section - Demonstrating Box Model */
+.card {
+  background-color: white;
+  margin: 20px;        /* Margin (space outside the box) */
+  padding: 15px;       /* Padding (space inside the box) */
+  border: 2px solid #ccc; /* Border */
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
